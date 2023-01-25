@@ -43,14 +43,17 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 </details>
 
 <details>
-  <summary>Set up A Database using MongoDB with ChatGPT</summary>
+  <summary> Section 3: Set up A Database using MongoDB with ChatGPT</summary>
 
-  1. [What is MongoDB and How To Use it with ChatGPT](.)
-  1.  
+  16.  What is MongoDB and How To Use it with ChatGPT
+  1.   Set Up an Account and Database with MongoDB Atlas and ChatGPT
+  1.   [Establish a Connection to MongoDB with The Express Server ChatGPT](content/18_Establish-a-Connection-to-MongoDB-with-The-Express-Server-ChatGPT.md)
+  1.   [Create A Model Schema with Mongoose Using ChatGPT Examples](content/19_Create-A-Model-Schema-with-Mongoose-Using-ChatGPT-Examples.md)
+  1.   [Add Users to The MongoDB using Mongoose Model Schema and Check for Results](content/20_Add-Users-to-The-MongoDB-using-Mongoose-Model-Schema-and-Check-for-Results.md)
 </details>  
 
 <details>
-  <summary>Build Your Own ChatGPT with the API - Now Available</summary>
+  <summary> Section 4:  Build Your Own ChatGPT with the API - Now Available </summary>
 
   1. [Build A ChatGPT AI in JavaScript - OpenAI - Machine Learning](.)
   1.  
