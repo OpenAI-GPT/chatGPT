@@ -18,10 +18,19 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 > 10 sections • 41 lectures • 3h 14m total length
 
 <details>
-  <summary>Building Full Stack Coding Architecture with ChatGPT</summary>
+  <summary> Section 1: Building Full Stack Coding Architecture with ChatGPT</summary>
 
-  1.  [The Complete ChatGPT Web Development Code Along - Javascript](.)
-  1.  [Login and Create an Account with OpenAi ChatGPT](.)
+  1.  What We're Building in This Course
+  1.  [Join Our Online Community](./content/2_Join-Our-Online-Community.md)
+  1.  Login and Create an Account with OpenAi ChatGPT
+  1.  How Does chatGPT Work
+  1.  Ask ChatGPT a Question With Responsive Learning Model Analysis
+  1.  First Coding Full Stack Question for ChatGPT
+  1.  Choosing The Best Technologies to Build an Application with ChatGPT
+  1.  Compiling The Steps To Build A Full Application with ChatGPT
+  1.  What is Node.js and Installation Process with NPM
+  1.  What is Visual Studio Code - Installation and Open
+  1.  [Exercise - Meet The Online Community](content/11_Exercise-Meet-The-Online-Community.md)
 </details>
 
 <details>
