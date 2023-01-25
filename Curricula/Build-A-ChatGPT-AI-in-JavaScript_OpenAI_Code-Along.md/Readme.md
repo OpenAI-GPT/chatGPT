@@ -18,7 +18,15 @@ Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI C
 <details>
   <summary> Section 1: 00 Setting Up The OpenAI ChatGPT Project </summary>
 
-  1. []()  
+  1. What We Are Building with OpenAI ChatGPT   
+  1. [Join Our Online Community](content/2_Join-Our-Online-Community.md)   
+  1. What is Next Js and React Js
+  4. What is Node Js and NPM - OpenAI Project Set Up
+  5. Install Next Js with NPX - ChatGPT Project Set Up
+  6. Download and Install A Text Editor - Visual Studio Code for OpenAI ChatGPT
+  7. How Does NPM Run Dev Work in Next Js
+  8. Complete File Structure Review of The OpenAI ChatGPT
+  9. [Exercise - Meet A Member of our Community](content/9_Exercise-Meet-A-Member-of-our-Community.md)
 </details>
 
 <details>
@@ -29,7 +37,7 @@ Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI C
 </details>
 
 <details>
-  <summary> Section 3: Client Side Adding State and hooks to the OpenAI ChatGPT</summary>
+  <summary> Section 3: Client Side Adding State and hooks to the OpenAI ChatGPT </summary>
 
   1. []()
   
