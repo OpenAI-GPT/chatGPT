@@ -55,8 +55,7 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 <details>
   <summary> Section 4:  Build Your Own ChatGPT with the API - Now Available </summary>
 
-  1. [Build A ChatGPT AI in JavaScript - OpenAI - Machine Learning](.)
-  1.  
+  21. [Build A ChatGPT AI in JavaScript - OpenAI - Machine Learning](content/21_Build-A-ChatGPT-AI-in-JavaScript_OpenAI_MachineLearning.md)
 </details> 
 
 <details>
