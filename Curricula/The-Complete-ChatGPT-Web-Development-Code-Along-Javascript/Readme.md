@@ -34,10 +34,12 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 </details>
 
 <details>
-  <summary>Building The Proxy Backend Server with ChatGPT</summary>
+  <summary> Section 2: Building The Proxy Backend Server with ChatGPT</summary>
 
-  1.  [Setting Up The Project and Package.json with ChatGPT](.)
-  1.  
+  12.  Setting Up The Project and Package.json with ChatGPT
+  1.   What Is Express.JS with ChatGPT
+  1.   Install Express.JS with ChatGPT
+  1.   Set Up Express Server and Routing with ChatGPT
 </details>
 
 <details>
