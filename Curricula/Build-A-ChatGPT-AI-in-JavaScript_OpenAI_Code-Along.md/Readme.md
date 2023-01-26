@@ -55,12 +55,14 @@ Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI C
 
   19. [OpenAI API ChatGPT Examples](./content/19_OpenAI-API-ChatGPT-Examples.md)
   20. [ChatGPT API Key for OpenAI and Environment Security Protocol](./content/20_ChatGPT-API-Key-for-OpenAI-and-Environment-Security-Protocol.md)
+  22. [CSS Styling to OpenAI Form](content/22_CSS-Styling-to-OpenAI-Form.md)
+  23. Add Result Styling CSS to OpenAI Project
 </details> 
 
 <details>
   <summary> Section 5: Finish Styling the OpenAI Application </summary>
 
-  1. []()
+  21. [Important: CSS File Needed to Continue with This Section](content/21_Important_CSS-File-Needed-to-Continue-with-This-Section.md)
 </details> 
 
 <details>
