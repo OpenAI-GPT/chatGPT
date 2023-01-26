@@ -54,21 +54,22 @@ Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI C
   <summary> Section 4: OpenAI API Set Up and Documentation </summary>
 
   19. [OpenAI API ChatGPT Examples](./content/19_OpenAI-API-ChatGPT-Examples.md)
-  20. [ChatGPT API Key for OpenAI and Environment Security Protocol](./content/20_ChatGPT-API-Key-for-OpenAI-and-Environment-Security-Protocol.md)
-  22. [CSS Styling to OpenAI Form](content/22_CSS-Styling-to-OpenAI-Form.md)
-  23. Add Result Styling CSS to OpenAI Project
+  20. [ChatGPT API Key for OpenAI and Environment Security Protocol](./content/20_ChatGPT-API-Key-for-OpenAI-and-Environment-Security-Protocol.md)  
 </details> 
 
 <details>
   <summary> Section 5: Finish Styling the OpenAI Application </summary>
 
   21. [Important: CSS File Needed to Continue with This Section](content/21_Important_CSS-File-Needed-to-Continue-with-This-Section.md)
+  22. [CSS Styling to OpenAI Form](content/22_CSS-Styling-to-OpenAI-Form.md)
+  23. [Add Result Styling CSS to OpenAI Project](content/23_Add-Result-Styling-CSS-to-OpenAI-Project.md)
 </details> 
 
 <details>
   <summary> Section 6: Gnerate API for OpenAI Configuration with ChatGPT </summary>
 
-  1. []()
+  24. [Call and Response Example for OpenAI Implementation and Customizations](content/24_Call-and-Response-Example-for-OpenAI-Implementation-and-Customizations.md)
+  25. [Robust Error Handling and Logic Completion to OpenAI API](content/25_Robust-Error-Handling-and-Logic-Completion-to-OpenAI-API.md)
 </details> 
 
 ##  Requirements
