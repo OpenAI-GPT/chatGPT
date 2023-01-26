@@ -42,8 +42,10 @@ Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI C
 <details>
   <summary> Section 3: Client Side Adding State and hooks to the OpenAI ChatGPT </summary>
 
-  1. []()
-  
+  15. Animal Input State Update for Open AI Queries  
+  16. onSubmit Functionality for OpenAi API Connection with ChatGPT
+  17. Async Await Fetch OpenAi and ChatGPT Post Request Pattern
+  18. Async Await Fetch OpenAI and ChatGPT Data Response Pattern
 </details>  
 
 <details>
