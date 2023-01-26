@@ -2,6 +2,8 @@
 
 - [Build A ChatGPT AI in JavaScript - OpenAI - Code Along](https://www.udemy.com/course/build-a-chatgpt-ai-in-javascript-openai-machine-learning/?referralCode=86EF884862FC887CF0E6)
 
+- [https://github.com/OpenAI-GPT/frontend-openai](https://github.com/OpenAI-GPT/frontend-openai)
+
 Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI ChatGPT - Machine Learning
 
 ##  What you'll learn
@@ -51,7 +53,8 @@ Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI C
 <details>
   <summary> Section 4: OpenAI API Set Up and Documentation </summary>
 
-  1. []()
+  19. [OpenAI API ChatGPT Examples](./content/19_OpenAI-API-ChatGPT-Examples.md)
+  20. [ChatGPT API Key for OpenAI and Environment Security Protocol](./content/20_ChatGPT-API-Key-for-OpenAI-and-Environment-Security-Protocol.md)
 </details> 
 
 <details>
