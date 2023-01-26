@@ -32,8 +32,11 @@ Create Your Own AI Assistant in JavaScript - A Hands-On Introduction to OpenAI C
 <details>
   <summary> Section 2: Client Side Code For OpenAI ChatGPT </summary>
 
-  1. []()
-
+  10. [The Final Solution Code of the Project OpenAI ChatGPT Project](content/10_The-Final-Solution-Code-of-the-Project-OpenAI-ChatGPT-Project.md)
+  11. Overview of Next Js Key index and Starter Coding Files for the ChatGPT OpenAI
+  12. Cleaning Up The Index File for ChatGPT OpenAI API
+  13. Writing a Form in React with Next Js for ChatGPT OpenAI
+  14. What Are Hooks and How To Manage State in React
 </details>
 
 <details>
