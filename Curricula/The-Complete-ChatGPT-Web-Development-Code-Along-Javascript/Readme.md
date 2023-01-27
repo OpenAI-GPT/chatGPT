@@ -59,10 +59,12 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 </details> 
 
 <details>
-  <summary>Set Up React Client Side of the Application with ChatGPT</summary>
+  <summary> Section 5: Set Up React Client Side of the Application with ChatGPT </summary>
 
-  1. [Review of ChatGPT Code so far Client Side and Back End](.)
-  1.  
+  22. [Review of ChatGPT Code so far Client Side and Back End](.)
+  1.  Learn What Is React with ChatGPT
+  1.  How To Use React
+  1.  Set Up And Install React Client Side and Go Through Boilerplate
 </details> 
 
 <details>
