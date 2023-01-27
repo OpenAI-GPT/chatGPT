@@ -2,6 +2,8 @@
 
 - [The Complete ChatGPT Web Development Code Along - Javascript](https://www.udemy.com/course/the-complete-chatgpt-web-development-full-stack-javascript)
 
+- [https://github.com/OpenAI-GPT/fullstack-openai](https://github.com/OpenAI-GPT/fullstack-openai)
+
 Learn to code with ChatGPT and 10x your Web Development Productivity - Build a MERN Project from scratch with ChatGPT
 
 ##  What you'll learn
@@ -61,17 +63,18 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 <details>
   <summary> Section 5: Set Up React Client Side of the Application with ChatGPT </summary>
 
-  22. [Review of ChatGPT Code so far Client Side and Back End](.)
+  22. Review of ChatGPT Code so far Client Side and Back End
   1.  Learn What Is React with ChatGPT
   1.  How To Use React
-  1.  Set Up And Install React Client Side and Go Through Boilerplate
+  1.  [Set Up And Install React Client Side and Go Through Boilerplate](./content/25_Set-Up-And-Install-React-Client-Side-and-Go-Through-Boilerplate.md)
 </details> 
 
 <details>
-  <summary>Write Out User API Requests to Mongo Database with Express and React</summary>
+  <summary> Section 6: Write Out User API Requests to Mongo Database with Express and React </summary>
 
-  1. [Understanding and Analysing React Code and HTML with ChatGPT](.)
-  1.  
+  26. Understanding and Analysing React Code and HTML with ChatGPT
+  27. Build The User Authentication Form With React with ChatGPT Examples
+  28. Write Event HandleChange functions for User Database Form in React  
 </details> 
 
 <details>
