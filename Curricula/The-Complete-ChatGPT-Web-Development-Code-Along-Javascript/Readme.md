@@ -93,16 +93,22 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 </details> 
 
 <details>
-  <summary>Debug and Complete the Client side Code with ChatGPT</summary>
+  <summary> Section 9: Debug and Complete the Client side Code with ChatGPT </summary>
 
-  1. Add The Following Code To Your Project
-
+  34. [Add The Following Code To Your Project](content/34_Add-The-Following-Code-To-Your-Project.md)
+  35. Double Check The Code Updates to JSX and CSS Are Complete
+  36. Request Connect Four Code Architecture in The React Example from ChatGPT
+  37. Always Analyze The Code and Follow Logic Before Debugging - Golden Rule
+  38. Debug With Proper Semantics user Chat GPT in React Code
+  39. Use ChatGPT To Write Code Logic To Keep Track Of The React State of Each Play
+  40. Complete The Fullstack App With Working Code with ChatGPT
 </details> 
 
 <details>
-  <summary>Conclusion</summary>
+  <summary> Section 10: Conclusion </summary>
 
-  1. ChatGPT MERN Stack Conclusion
+  41. [Build A Mobile Application with ChatGPT using React Native](./content/41_Build-A-Mobile-Application-with-ChatGPT-using-React-Native.md)
+  42. ChatGPT MERN Stack Conclusion
 </details> 
 
 ##  Requirements
