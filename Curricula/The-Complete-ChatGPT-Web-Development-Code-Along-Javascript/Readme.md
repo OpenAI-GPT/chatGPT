@@ -82,13 +82,14 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 
   29. Use The Axios Library into The MongoDB Database By Analyzing ChatGPT
   1.  Write The Server Code To Post Requests To The Database From The Client Side
+  31. Consult ChatGPT to Add Routing To Our Application
 </details> 
 
 <details>
-  <summary>Add Routing To React Client Side with ChatGPT</summary>
+  <summary> Section 8: Add Routing To React Client Side with ChatGPT </summary>
 
-  1. Add The Welcome Component and Passing Props in Ract
-  1.  
+  32. Add The Welcome Component and Passing Props in React
+  33. Set Up Routing And Page Rendering With Navigation Dom Libraries in React  
 </details> 
 
 <details>
