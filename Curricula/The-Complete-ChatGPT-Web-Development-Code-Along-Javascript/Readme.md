@@ -105,9 +105,10 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 </details> 
 
 <details>
-  <summary>Conclusion</summary>
+  <summary> Section 10: Conclusion </summary>
 
-  1. ChatGPT MERN Stack Conclusion
+  41. [Build A Mobile Application with ChatGPT using React Native](./content/41_Build-A-Mobile-Application-with-ChatGPT-using-React-Native.md)
+  42. ChatGPT MERN Stack Conclusion
 </details> 
 
 ##  Requirements
