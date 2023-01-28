@@ -78,10 +78,10 @@ Learn to code with ChatGPT and 10x your Web Development Productivity - Build a M
 </details> 
 
 <details>
-  <summary>Fetch and Update Database with MongoDB API and Set Up Routing With Express</summary>
+  <summary> Section 7: Fetch and Update Database with MongoDB API and Set Up Routing With Express </summary>
 
-  1. [Use The Axios Library into The MongoDB Database By Analyzing ChatGPT](.)
-  1.  
+  29. Use The Axios Library into The MongoDB Database By Analyzing ChatGPT
+  1.  Write The Server Code To Post Requests To The Database From The Client Side
 </details> 
 
 <details>
