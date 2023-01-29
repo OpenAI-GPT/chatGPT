@@ -243,6 +243,9 @@ Looking forward to seeing you in the lessons!
 
 ## Extra
 
+-   [Next.js & React - The Complete Guide (incl. Two Paths!)](https://github.com/ShuhanCode/art-javascript/tree/main/Curricula/nextjs)
+-   [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=ADCE6741CC-BONUS)
+-   [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
 -   [Machine Learning with Javascript](https://www.udemy.com/course/machine-learning-with-javascript/)
 -   [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
 -   [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)

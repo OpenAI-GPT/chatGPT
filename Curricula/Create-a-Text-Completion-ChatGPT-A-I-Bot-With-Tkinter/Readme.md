@@ -17,7 +17,22 @@ Learn to Connect Your Python Apps To OpenAI The Fast And Easy Way!
 <details>
   <summary> Section 1: Introduction and Setup </summary>
 
-  1.  What We're Building in This Course  
+  1. Introduction
+  2. Install Python
+  3. Sublime Text And Gitbash Terminal
+  4. OpenAI API Key
+</details>
+
+<details>
+  <summary> Section 2: Build Out The Tkinter GUI </summary>
+
+  8. Text Widget  
+</details>
+
+<details>
+  <summary> Section 2: Build Out The Tkinter GUI </summary>
+
+  8. Text Widget  
 </details>
 
 
@@ -50,9 +65,6 @@ We won't dive into customTkinter in great detail in this course, we'll just use 
 
 ## Extra
 
--   [Next.js & React - The Complete Guide (incl. Two Paths!)](https://github.com/ShuhanCode/art-javascript/tree/main/Curricula/nextjs)
--   [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=ADCE6741CC-BONUS)
--   [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
 -   [Machine Learning with Javascript](https://www.udemy.com/course/machine-learning-with-javascript/)
 -   [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
 -   [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
